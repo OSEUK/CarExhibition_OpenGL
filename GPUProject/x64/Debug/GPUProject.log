@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\bone.h(45,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\bone.h(56,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\bone.h(67,20): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\model_animation.h(177,37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\animation.h(31,25): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\animation.h(32,31): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\animation.h(56,44): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\animation.h(98,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\bone.h(96,1): warning C4715: 'Bone::GetPositionIndex': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\bone.h(106,1): warning C4715: 'Bone::GetRotationIndex': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\GPUProject\include\learnopengl\bone.h(116,1): warning C4715: 'Bone::GetScaleIndex': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  GPUProject.vcxproj -> C:\Users\tpdnr\OneDrive\바탕 화면\GPUProject\x64\Debug\GPUProject.exe

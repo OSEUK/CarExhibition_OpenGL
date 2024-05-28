@@ -1,0 +1,336 @@
+newmtl Wheel1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Wheel1_diff.png
+map_Kd Wheel1_diff.png
+map_d Wheel1_diff.png
+
+newmtl Springtop1Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.3363 0.0101928 0.00465062 
+
+d 0.501961
+
+Ns 0
+
+newmtl Hub1Mtl
+Material Color
+Ka 1 0.133209 0.612066
+Kd 1 0.133209 0.612066
+Ks 0.6 0.0799251 0.367239 
+
+d 0.501961
+
+Ns 0
+
+newmtl Glass1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 0.301961
+
+Ns 0
+
+map_Ka Bumpfrontok1_diff.png
+map_Kd Bumpfrontok1_diff.png
+map_d Bumpfrontok1_diff.png
+
+newmtl Misc1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Misc1_diff.png
+map_Kd Misc1_diff.png
+map_d Misc1_diff.png
+
+newmtl Windscreenok1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 0.803922
+
+Ns 0
+
+map_Ka Bumpfrontok1_diff.png
+map_Kd Bumpfrontok1_diff.png
+map_d Bumpfrontok1_diff.png
+
+newmtl Bumpfrontok0061Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Bumpfrontok0061_diff.png
+map_Kd Bumpfrontok0061_diff.png
+map_d Bumpfrontok0061_diff.png
+
+newmtl Upperarmb1Mtl
+Material Color
+Ka 1 0.442323 0
+Kd 1 0.442323 0
+Ks 0.6 0.265394 0 
+
+d 0.501961
+
+Ns 0
+
+newmtl Wheel0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Wheel0011_diff.png
+map_Kd Wheel0011_diff.png
+map_d Wheel0011_diff.png
+
+newmtl Upperarm1Mtl
+Material Color
+Ka 0.121986 0.0143105 0.645555
+Kd 0.121986 0.0143105 0.645555
+Ks 0.0731914 0.00858631 0.387333 
+
+d 0.501961
+
+Ns 0
+
+newmtl Misc0071Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Misc0071_diff.png
+map_Kd Misc0071_diff.png
+map_d Misc0071_diff.png
+
+newmtl Bumpfrontok1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Bumpfrontok1_diff.png
+map_Kd Bumpfrontok1_diff.png
+map_d Bumpfrontok1_diff.png
+
+newmtl Misc0031Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.224169 0.221155 0.230265 
+
+d 1
+
+Ns 0
+
+newmtl Misc0081Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Misc0081_diff.png
+map_Kd Misc0081_diff.png
+map_d Misc0081_diff.png
+
+newmtl Wheel0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Wheel0021_diff.png
+map_Kd Wheel0021_diff.png
+map_d Wheel0021_diff.png
+
+newmtl Doorrfok1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Doorrfok1_diff.png
+map_Kd Doorrfok1_diff.png
+map_d Doorrfok1_diff.png
+
+newmtl Chassis0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Chassis0011_diff.png
+map_Kd Chassis0011_diff.png
+map_d Chassis0011_diff.png
+
+newmtl Cupper1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.56436 0.56436 0.56436 
+
+d 0.501961
+
+Ns 0
+
+newmtl Doorrfok0031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Doorrfok0031_diff.png
+map_Kd Doorrfok0031_diff.png
+map_d Doorrfok0031_diff.png
+
+newmtl Bootdam0041Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Bootdam0041_diff.png
+map_Kd Bootdam0041_diff.png
+map_d Bootdam0041_diff.png
+
+newmtl Engine2Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Engine2_diff.png
+map_Kd Engine2_diff.png
+map_d Engine2_diff.png
+
+newmtl Misc0051Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Misc0051_diff.png
+map_Kd Misc0051_diff.png
+map_d Misc0051_diff.png
+
+newmtl Engine3Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Engine3_diff.png
+map_Kd Engine3_diff.png
+map_d Engine3_diff.png
+
+newmtl Rr1Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.0015515 0.0015515 0.0015515 
+
+d 0.501961
+
+Ns 0
+
+newmtl Interior1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Interior1_diff.png
+map_Kd Interior1_diff.png
+map_d Interior1_diff.png
+
+newmtl Engine1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.6 0.6 0.6 
+
+d 1
+
+Ns 0
+
+map_Ka Engine1_diff.png
+map_Kd Engine1_diff.png
+map_d Engine1_diff.png
+

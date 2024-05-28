@@ -1,0 +1,1604 @@
+newmtl Meshesbumprearok31Mtl
+Material Color
+Ka 0.851252 0.827726 0.827726
+Kd 0.851252 0.827726 0.827726
+Ks 0.337162 0.327844 0.327844 
+
+d 1
+
+Ns 0
+
+newmtl Mesheschassis0261Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 0.980392
+
+Ns 0
+
+map_Ka Mesheschassis0261_diff.png
+map_Kd Mesheschassis0261_diff.png
+map_d Mesheschassis0261_diff.png
+
+newmtl Meshesrpetrolok1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesrpetrolok1_diff.png
+map_Kd Meshesrpetrolok1_diff.png
+map_d Meshesrpetrolok1_diff.png
+
+newmtl Meshesmovsteer10011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesmovsteer10011_diff.png
+map_Kd Meshesmovsteer10011_diff.png
+map_d Meshesmovsteer10011_diff.png
+
+newmtl Mesheschassis0061Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0061_diff.png
+map_Kd Mesheschassis0061_diff.png
+map_d Mesheschassis0061_diff.png
+
+newmtl Mesheschassis0232Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0232_diff.png
+map_Kd Mesheschassis0232_diff.png
+map_d Mesheschassis0232_diff.png
+
+newmtl Mesheschassis0021Mtl
+Material Color
+Ka 0.180144 0 0
+Kd 0.180144 0 0
+Ks 0.0113032 0 0 
+
+d 1
+
+Ns 0
+
+newmtl Mesheschassis0381Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mesheschassis0381_diff.png
+map_Kd Mesheschassis0381_diff.png
+map_d Mesheschassis0381_diff.png
+
+newmtl Mesheschassis0251Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0251_diff.png
+map_Kd Mesheschassis0251_diff.png
+map_d Mesheschassis0251_diff.png
+
+newmtl Mesheschassis0291Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0291_diff.png
+map_Kd Mesheschassis0291_diff.png
+map_d Mesheschassis0291_diff.png
+
+newmtl Mesheschassis0031Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 1
+
+Ns 0
+
+newmtl Paint1Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00102419 0.00102419 0.00102419 
+
+d 1
+
+Ns 0
+
+newmtl Mesheschassis0091Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0091_diff.png
+map_Kd Mesheschassis0091_diff.png
+map_d Mesheschassis0091_diff.png
+
+newmtl Meshesbumpfrontok31Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 0.980392
+
+Ns 0
+
+map_Ka Meshesbumpfrontok31_diff.png
+map_Kd Meshesbumpfrontok31_diff.png
+map_d Meshesbumpfrontok31_diff.png
+
+newmtl Mesheschassis0241Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0241_diff.png
+map_Kd Mesheschassis0241_diff.png
+map_d Mesheschassis0241_diff.png
+
+newmtl Mesheschassis0252Mtl
+Material Color
+Ka 0.373615 0.368591 0.383775
+Kd 0.373615 0.368591 0.383775
+Ks 0.147981 0.145991 0.152005 
+
+d 0.4
+
+Ns 0
+
+newmtl Meshesuntitled161Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesuntitled161_diff.png
+map_Kd Meshesuntitled161_diff.png
+map_d Meshesuntitled161_diff.png
+
+newmtl Meshesglassrearok0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 0.901961
+
+Ns 0
+
+map_Ka Meshesglassrearok0021_diff.png
+map_Kd Meshesglassrearok0021_diff.png
+map_d Meshesglassrearok0021_diff.png
+
+newmtl Meshesbumprearok0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbumprearok0021_diff.png
+map_Kd Meshesbumprearok0021_diff.png
+map_d Meshesbumprearok0021_diff.png
+
+newmtl Mesheschassis0391Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mesheschassis0391_diff.png
+map_Kd Mesheschassis0391_diff.png
+map_d Mesheschassis0391_diff.png
+
+newmtl Mesheschassis0361Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mesheschassis0361_diff.png
+map_Kd Mesheschassis0361_diff.png
+map_d Mesheschassis0361_diff.png
+
+newmtl Mesheschassis0351Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mesheschassis0351_diff.png
+map_Kd Mesheschassis0351_diff.png
+map_d Mesheschassis0351_diff.png
+
+newmtl Mesheschair1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschair1_diff.png
+map_Kd Mesheschair1_diff.png
+map_d Mesheschair1_diff.png
+
+newmtl Mesheschair0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschair0021_diff.png
+map_Kd Mesheschair0021_diff.png
+map_d Mesheschair0021_diff.png
+
+newmtl Mesheschassis0041Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0041_diff.png
+map_Kd Mesheschassis0041_diff.png
+map_d Mesheschassis0041_diff.png
+
+newmtl Mesheschassis0221Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mesheschassis0221_diff.png
+map_Kd Mesheschassis0221_diff.png
+map_d Mesheschassis0221_diff.png
+
+newmtl Mesheschassis0301Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0301_diff.png
+map_Kd Mesheschassis0301_diff.png
+map_d Mesheschassis0301_diff.png
+
+newmtl Mesheschassis0161Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0161_diff.png
+map_Kd Mesheschassis0161_diff.png
+map_d Mesheschassis0161_diff.png
+
+newmtl Mesheschassis0211Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 0.980392
+
+Ns 255
+
+map_Ka Mesheschassis0211_diff.png
+map_Kd Mesheschassis0211_diff.png
+map_d Mesheschassis0211_diff.png
+
+newmtl Meshesdisplaygaugesoff0051Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 0.980392
+
+Ns 0
+
+map_Ka Meshesdisplaygaugesoff0051_diff.png
+map_Kd Meshesdisplaygaugesoff0051_diff.png
+map_d Meshesdisplaygaugesoff0051_diff.png
+
+newmtl Mesheschassis0201Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0201_diff.png
+map_Kd Mesheschassis0201_diff.png
+map_d Mesheschassis0201_diff.png
+
+newmtl Meshesdoorrfok00341Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrfok00341_diff.png
+map_Kd Meshesdoorrfok00341_diff.png
+map_d Meshesdoorrfok00341_diff.png
+
+newmtl Mesheschassis0191Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mesheschassis0191_diff.png
+map_Kd Mesheschassis0191_diff.png
+map_d Mesheschassis0191_diff.png
+
+newmtl Mesheschassis0181Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0181_diff.png
+map_Kd Mesheschassis0181_diff.png
+map_d Mesheschassis0181_diff.png
+
+newmtl Mesheschassis0331Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0331_diff.png
+map_Kd Mesheschassis0331_diff.png
+map_d Mesheschassis0331_diff.png
+
+newmtl Mesheschassis0171Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0171_diff.png
+map_Kd Mesheschassis0171_diff.png
+map_d Mesheschassis0171_diff.png
+
+newmtl Mesheschassis0151Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0151_diff.png
+map_Kd Mesheschassis0151_diff.png
+map_d Mesheschassis0151_diff.png
+
+newmtl Mesheschassis01411Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis01411_diff.png
+map_Kd Mesheschassis01411_diff.png
+map_d Mesheschassis01411_diff.png
+
+newmtl Meshesbumpfrontok00231Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbumpfrontok00231_diff.png
+map_Kd Meshesbumpfrontok00231_diff.png
+map_d Meshesbumpfrontok00231_diff.png
+
+newmtl Mesheschassis0121Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0121_diff.png
+map_Kd Mesheschassis0121_diff.png
+map_d Mesheschassis0121_diff.png
+
+newmtl Meshesglassrearok0031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 0.901961
+
+Ns 0
+
+map_Ka Meshesglassrearok0031_diff.png
+map_Kd Meshesglassrearok0031_diff.png
+map_d Meshesglassrearok0031_diff.png
+
+newmtl Mesheswheelrb0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mesheswheelrb0011_diff.png
+map_Kd Mesheswheelrb0011_diff.png
+map_d Mesheswheelrb0011_diff.png
+
+newmtl Mesheschassis0111Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0111_diff.png
+map_Kd Mesheschassis0111_diff.png
+map_d Mesheschassis0111_diff.png
+
+newmtl Mesheschassis0101Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0101_diff.png
+map_Kd Mesheschassis0101_diff.png
+map_d Mesheschassis0101_diff.png
+
+newmtl Mesheschassis0081Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0081_diff.png
+map_Kd Mesheschassis0081_diff.png
+map_d Mesheschassis0081_diff.png
+
+newmtl Meshesdisplaygaugesoff0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdisplaygaugesoff0021_diff.png
+map_Kd Meshesdisplaygaugesoff0021_diff.png
+map_d Meshesdisplaygaugesoff0021_diff.png
+
+newmtl Mesheschassis0071Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0071_diff.png
+map_Kd Mesheschassis0071_diff.png
+map_d Mesheschassis0071_diff.png
+
+newmtl Mesheschassis0281Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0281_diff.png
+map_Kd Mesheschassis0281_diff.png
+map_d Mesheschassis0281_diff.png
+
+newmtl Mesheschassis0311Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0311_diff.png
+map_Kd Mesheschassis0311_diff.png
+map_d Mesheschassis0311_diff.png
+
+newmtl Mesheschassis0321Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0321_diff.png
+map_Kd Mesheschassis0321_diff.png
+map_d Mesheschassis0321_diff.png
+
+newmtl Mesheschassis0272Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0272_diff.png
+map_Kd Mesheschassis0272_diff.png
+map_d Mesheschassis0272_diff.png
+
+newmtl Meshesbumprearok0031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbumprearok0031_diff.png
+map_Kd Meshesbumprearok0031_diff.png
+map_d Meshesbumprearok0031_diff.png
+
+newmtl Mesheschassis0051Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0051_diff.png
+map_Kd Mesheschassis0051_diff.png
+map_d Mesheschassis0051_diff.png
+
+newmtl Mesheswheelrb0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mesheswheelrb0021_diff.png
+map_Kd Mesheswheelrb0021_diff.png
+map_d Mesheswheelrb0021_diff.png
+
+newmtl Mesheschassis1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 0.980392
+
+Ns 0
+
+map_Ka Mesheschassis1_diff.png
+map_Kd Mesheschassis1_diff.png
+map_d Mesheschassis1_diff.png
+
+newmtl Meshesexhaustok1Mtl
+Material Color
+Ka 0.353741 0.363604 0.420508
+Kd 0.353741 0.363604 0.420508
+Ks 0.140109 0.144016 0.166554 
+
+d 1
+
+Ns 0
+
+newmtl Meshesbumprearok0092Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbumprearok0092_diff.png
+map_Kd Meshesbumprearok0092_diff.png
+map_d Meshesbumprearok0092_diff.png
+
+newmtl Meshesbumprearok0061Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Meshesbumprearok0061_diff.png
+map_Kd Meshesbumprearok0061_diff.png
+map_d Meshesbumprearok0061_diff.png
+
+newmtl Meshesextra21Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbumpfrontok00231_diff.png
+map_Kd Meshesbumpfrontok00231_diff.png
+map_d Meshesbumpfrontok00231_diff.png
+
+newmtl Meshesbumprearok0051Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 0.980392
+
+Ns 0
+
+map_Ka Meshesbumprearok0051_diff.png
+map_Kd Meshesbumprearok0051_diff.png
+map_d Meshesbumprearok0051_diff.png
+
+newmtl Meshesdisplaygaugesoff0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdisplaygaugesoff0011_diff.png
+map_Kd Meshesdisplaygaugesoff0011_diff.png
+map_d Meshesdisplaygaugesoff0011_diff.png
+
+newmtl Mesheschair0031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschair0031_diff.png
+map_Kd Mesheschair0031_diff.png
+map_d Mesheschair0031_diff.png
+
+newmtl Meshesbumprearok0041Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbumprearok0041_diff.png
+map_Kd Meshesbumprearok0041_diff.png
+map_d Meshesbumprearok0041_diff.png
+
+newmtl Meshesbumpfrontok00331Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbumpfrontok00331_diff.png
+map_Kd Meshesbumpfrontok00331_diff.png
+map_d Meshesbumpfrontok00331_diff.png
+
+newmtl Meshesdisplaygaugesoff0041Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdisplaygaugesoff0041_diff.png
+map_Kd Meshesdisplaygaugesoff0041_diff.png
+map_d Meshesdisplaygaugesoff0041_diff.png
+
+newmtl Meshestahook1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshestahook1_diff.png
+map_Kd Meshestahook1_diff.png
+map_d Meshestahook1_diff.png
+
+newmtl Meshesdisplaygaugesoff0031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdisplaygaugesoff0031_diff.png
+map_Kd Meshesdisplaygaugesoff0031_diff.png
+map_d Meshesdisplaygaugesoff0031_diff.png
+
+newmtl Meshesdisplaygaugesoff1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdisplaygaugesoff1_diff.png
+map_Kd Meshesdisplaygaugesoff1_diff.png
+map_d Meshesdisplaygaugesoff1_diff.png
+
+newmtl Meshesglassrearok0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 0.901961
+
+Ns 0
+
+map_Ka Meshesglassrearok0011_diff.png
+map_Kd Meshesglassrearok0011_diff.png
+map_d Meshesglassrearok0011_diff.png
+
+newmtl Meshesglassrearok1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.396078 0.396078 0.396078 
+
+d 0.901961
+
+Ns 0
+
+map_Ka Meshesglassrearok1_diff.png
+map_Kd Meshesglassrearok1_diff.png
+map_d Meshesglassrearok1_diff.png
+
+newmtl Upperarm1Mtl
+Material Color
+Ka 0.121986 0.0143105 0.645555
+Kd 0.121986 0.0143105 0.645555
+Ks 0.0483159 0.00566809 0.255691 
+
+d 0.501961
+
+Ns 0
+
+newmtl Upperarmb1Mtl
+Material Color
+Ka 1 0.442323 0
+Kd 1 0.442323 0
+Ks 0.396078 0.175195 0 
+
+d 0.501961
+
+Ns 0
+
+newmtl Hub1Mtl
+Material Color
+Ka 1 0.133209 0.612066
+Kd 1 0.133209 0.612066
+Ks 0.396078 0.052761 0.242426 
+
+d 0.501961
+
+Ns 0
+
+newmtl Springtop1Mtl
+Material Color
+Ka 0.560499 0.0169881 0.00775103
+Kd 0.560499 0.0169881 0.00775103
+Ks 0.222002 0.0067286 0.00307001 
+
+d 0.501961
+
+Ns 0
+
+newmtl Cupper1Mtl
+Material Color
+Ka 0.940601 0.940601 0.940601
+Kd 0.940601 0.940601 0.940601
+Ks 0.372552 0.372552 0.372552 
+
+d 0.501961
+
+Ns 0
+
+newmtl Mesheshubrr1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheshubrr1_diff.png
+map_Kd Mesheshubrr1_diff.png
+map_d Mesheshubrr1_diff.png
+
+newmtl Mesheswheelrb11Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheswheelrb11_diff.png
+map_Kd Mesheswheelrb11_diff.png
+map_d Mesheswheelrb11_diff.png
+
+newmtl Mesheswheelrf1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheswheelrf1_diff.png
+map_Kd Mesheswheelrf1_diff.png
+map_d Mesheswheelrf1_diff.png
+
+newmtl Mesheswheelrf0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mesheswheelrf0021_diff.png
+map_Kd Mesheswheelrf0021_diff.png
+map_d Mesheswheelrf0021_diff.png
+
+newmtl Mesheshubrf1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheshubrf1_diff.png
+map_Kd Mesheshubrf1_diff.png
+map_d Mesheshubrf1_diff.png
+
+newmtl Mesheswheelrf0011Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.666667 0.666667 0.666667 
+
+d 1
+
+Ns 255
+
+map_Ka Mesheswheelrf0011_diff.png
+map_Kd Mesheswheelrf0011_diff.png
+map_d Mesheswheelrf0011_diff.png
+
+newmtl Meshesmovspoiler2515001Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesmovspoiler2515001_diff.png
+map_Kd Meshesmovspoiler2515001_diff.png
+map_d Meshesmovspoiler2515001_diff.png
+
+newmtl Meshesdoorrfok01131Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrfok01131_diff.png
+map_Kd Meshesdoorrfok01131_diff.png
+map_d Meshesdoorrfok01131_diff.png
+
+newmtl Meshesdoorrfok01031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrfok01031_diff.png
+map_Kd Meshesdoorrfok01031_diff.png
+map_d Meshesdoorrfok01031_diff.png
+
+newmtl Meshesdoorrfok00931Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrfok00931_diff.png
+map_Kd Meshesdoorrfok00931_diff.png
+map_d Meshesdoorrfok00931_diff.png
+
+newmtl Meshesdoorrfok41Mtl
+Material Color
+Ka 0.00258583 0.00258583 0.00258583
+Kd 0.00258583 0.00258583 0.00258583
+Ks 0.00102419 0.00102419 0.00102419 
+
+d 0.2
+
+Ns 0
+
+newmtl Meshesdoorrfok00841Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrfok00841_diff.png
+map_Kd Meshesdoorrfok00841_diff.png
+map_d Meshesdoorrfok00841_diff.png
+
+newmtl Meshestunkok0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshestunkok0021_diff.png
+map_Kd Meshestunkok0021_diff.png
+map_d Meshestunkok0021_diff.png
+
+newmtl Meshesdoorrfok00741Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrfok00741_diff.png
+map_Kd Meshesdoorrfok00741_diff.png
+map_d Meshesdoorrfok00741_diff.png
+
+newmtl Meshesdoorrfok00631Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrfok00631_diff.png
+map_Kd Meshesdoorrfok00631_diff.png
+map_d Meshesdoorrfok00631_diff.png
+
+newmtl Meshesdoorlrok1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlrok1_diff.png
+map_Kd Meshesdoorlrok1_diff.png
+map_d Meshesdoorlrok1_diff.png
+
+newmtl Meshesdoorrfok00541Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrfok00541_diff.png
+map_Kd Meshesdoorrfok00541_diff.png
+map_d Meshesdoorrfok00541_diff.png
+
+newmtl Meshesdoorrfok00441Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrfok00441_diff.png
+map_Kd Meshesdoorrfok00441_diff.png
+map_d Meshesdoorrfok00441_diff.png
+
+newmtl Meshesdoorlfok01131Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlfok01131_diff.png
+map_Kd Meshesdoorlfok01131_diff.png
+map_d Meshesdoorlfok01131_diff.png
+
+newmtl Meshesdoorlfok01031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlfok01031_diff.png
+map_Kd Meshesdoorlfok01031_diff.png
+map_d Meshesdoorlfok01031_diff.png
+
+newmtl Meshesdoorlfok00931Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlfok00931_diff.png
+map_Kd Meshesdoorlfok00931_diff.png
+map_d Meshesdoorlfok00931_diff.png
+
+newmtl Meshesdoorlfok00841Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlfok00841_diff.png
+map_Kd Meshesdoorlfok00841_diff.png
+map_d Meshesdoorlfok00841_diff.png
+
+newmtl Meshesdoorlfok00741Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlfok00741_diff.png
+map_Kd Meshesdoorlfok00741_diff.png
+map_d Meshesdoorlfok00741_diff.png
+
+newmtl Meshesdoorlfok00641Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlfok00641_diff.png
+map_Kd Meshesdoorlfok00641_diff.png
+map_d Meshesdoorlfok00641_diff.png
+
+newmtl Meshesdoorlfok00541Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlfok00541_diff.png
+map_Kd Meshesdoorlfok00541_diff.png
+map_d Meshesdoorlfok00541_diff.png
+
+newmtl Meshesdoorlfok00441Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlfok00441_diff.png
+map_Kd Meshesdoorlfok00441_diff.png
+map_d Meshesdoorlfok00441_diff.png
+
+newmtl Meshesdoorlfok00341Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlfok00341_diff.png
+map_Kd Meshesdoorlfok00341_diff.png
+map_d Meshesdoorlfok00341_diff.png
+
+newmtl Meshesrdvorleft1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesrdvorleft1_diff.png
+map_Kd Meshesrdvorleft1_diff.png
+map_d Meshesrdvorleft1_diff.png
+
+newmtl Meshestunkok0041Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshestunkok0041_diff.png
+map_Kd Meshestunkok0041_diff.png
+map_d Meshestunkok0041_diff.png
+
+newmtl Meshestunkok0031Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshestunkok0031_diff.png
+map_Kd Meshestunkok0031_diff.png
+map_d Meshestunkok0031_diff.png
+
+newmtl Meshesbootok00331Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbootok00331_diff.png
+map_Kd Meshesbootok00331_diff.png
+map_d Meshesbootok00331_diff.png
+
+newmtl Meshesbootok31Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbootok31_diff.png
+map_Kd Meshesbootok31_diff.png
+map_d Meshesbootok31_diff.png
+
+newmtl Meshesbonnetok31Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesbonnetok31_diff.png
+map_Kd Meshesbonnetok31_diff.png
+map_d Meshesbonnetok31_diff.png
+
+newmtl Meshesdoorrrok0021Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrrok0021_diff.png
+map_Kd Meshesdoorrrok0021_diff.png
+map_d Meshesdoorrrok0021_diff.png
+
+newmtl Meshesdoorrrok1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorrrok1_diff.png
+map_Kd Meshesdoorrrok1_diff.png
+map_d Meshesdoorrrok1_diff.png
+
+newmtl Mesheschassis0401Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.117647 0.117647 0.117647 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0401_diff.png
+map_Kd Mesheschassis0401_diff.png
+map_d Mesheschassis0401_diff.png
+
+newmtl Meshesdoorlrok00221Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesdoorlrok00221_diff.png
+map_Kd Meshesdoorlrok00221_diff.png
+map_d Meshesdoorlrok00221_diff.png
+
+newmtl Meshesmovsteer101Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesmovsteer101_diff.png
+map_Kd Meshesmovsteer101_diff.png
+map_d Meshesmovsteer101_diff.png
+
+newmtl Mesheschassis0421Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.027451 0.027451 0.027451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0421_diff.png
+map_Kd Mesheschassis0421_diff.png
+map_d Mesheschassis0421_diff.png
+
+newmtl Mesheschassis0431Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0431_diff.png
+map_Kd Mesheschassis0431_diff.png
+map_d Mesheschassis0431_diff.png
+
+newmtl Mesheschassis0341Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.117647 0.117647 0.117647 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0341_diff.png
+map_Kd Mesheschassis0341_diff.png
+map_d Mesheschassis0341_diff.png
+
+newmtl Mesheschassis0371Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.117647 0.117647 0.117647 
+
+d 1
+
+Ns 0
+
+map_Ka Mesheschassis0371_diff.png
+map_Kd Mesheschassis0371_diff.png
+map_d Mesheschassis0371_diff.png
+
+newmtl Meshesspeedook1Mtl
+Material Color
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.0627451 0.0627451 0.0627451 
+
+d 1
+
+Ns 0
+
+map_Ka Meshesspeedook1_diff.png
+map_Kd Meshesspeedook1_diff.png
+map_d Meshesspeedook1_diff.png
+
