@@ -6,9 +6,8 @@
 - Assimp 라이브러리로 Model Loading
 
 - Skeletal Animation 구현
-<br>
 [Skeletal Animation by LearnOpenGL](https://learnopengl.com/Guest-Articles/2022/Area-Lights)
-<br>
+
 - Area Light 구현
 [Area Light by LearnOpenGL](https://learnopengl.com/Guest-Articles/2022/Area-Lights)
 
