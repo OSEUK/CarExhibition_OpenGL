@@ -16,7 +16,7 @@
 - 밤하늘 Skybox 사용
 
 ### 최종 이미지
-[자동차 전시장](./carExhibition.png)
+[자동차 전시장](../carExhibition.png)
 
 
   
